@@ -1,6 +1,6 @@
 import Button, { ButtonProps } from "../../../shared/ui/Button";
 import { store } from "../../../store";
-import {isLengthValid, MIN_BET, setBetValue, setFocus} from "../model/betSlice";
+import {isLengthValid, setBetValue, setFocus} from "../model/betSlice";
 
 class BetInput extends Button {
     private readonly unsubscribeBetValue: () => void;
