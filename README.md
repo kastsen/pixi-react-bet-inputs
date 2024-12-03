@@ -7,3 +7,7 @@ A customizable button component for React and PixiJS. It supports custom images,
 - Hover effects with cursor change.
 - Click event handling.
 - Detects clicks outside the button.
+
+## License
+
+This project is licensed under the MIT License.
